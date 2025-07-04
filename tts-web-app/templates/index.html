@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text-to-Speech App</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fas fa-microphone-alt"></i> Text-to-Speech App</h1>
+        <form id="ttsForm">
+            <div class="form-group">
+                <label for="text"><i class="fas fa-text-height"></i> Nhập văn bản</label>
+                <textarea id="text" name="text" rows="5" placeholder="Nhập văn bản để chuyển thành giọng nói..."></textarea>
+            </div>
+            <div class="form-group">
+                <label for="textFile"><i class="fas fa-file-upload"></i> Hoặc upload file .txt</label>
+                <input type="file" id="textFile" name="textFile" accept=".txt">
+            </div>
+            <button type="submit" id="submitBtn">Tạo Audio <i class="fas fa-play"></i></button>
+        </form>
+        <div id="status" class="hidden">Đang xử lý...</div>
+        <div id="download" class="hidden">
+            Đã tạo audio trên server! Nhấn để tải về:
+            <a href="#" id="downloadLink">Tải file audio <i class="fas fa-download"></i></a>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('ttsForm');
+        const status = document.getElementById('status');
+        const download = document.getElementById('download');
+        const downloadLink = document.getElementById('downloadLink');
+        const submitBtn = document.getElementById('submitBtn');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            status.classList.remove('hidden', 'error');
+            status.classList.add('processing'); // Thêm class processing
+            download.classList.add('hidden');
+            submitBtn.disabled = true;
+            status.textContent = 'Đang xử lý...';
+
+            const formData = new FormData(form);
+            try {
+                const response = await fetch('/tts', {
+                    method: 'POST',
+                    body: formData
+                });
+                const result = await response.json();
+                
+                if (result.error) {
+                    status.classList.add('error');
+                    status.classList.remove('processing'); // Xóa class processing
+                    status.textContent = result.error;
+                    return;
+                }
+
+                status.classList.add('hidden');
+                status.classList.remove('processing'); // Xóa class processing
+                download.classList.remove('hidden');
+                downloadLink.href = result.downloadUrl;
+            } catch (error) {
+                status.classList.add('error');
+                status.classList.remove('processing'); // Xóa class processing
+                status.textContent = 'Đã xảy ra lỗi: ' + error.message;
+            } finally {
+                submitBtn.disabled = false;
+            }
+        });
+    </script>
+</body>
+</html>

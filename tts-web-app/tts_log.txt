@@ -1,0 +1,559 @@
+2025-07-03 11:31:44,368 - WARNING -  * Debugger is active!
+2025-07-03 11:31:44,371 - INFO -  * Debugger PIN: 325-965-416
+2025-07-03 11:31:56,242 - INFO - 127.0.0.1 - - [03/Jul/2025 11:31:56] "GET / HTTP/1.1" 200 -
+2025-07-03 11:31:56,288 - INFO - 127.0.0.1 - - [03/Jul/2025 11:31:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-03 11:32:00,627 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:00] "GET / HTTP/1.1" 200 -
+2025-07-03 11:32:00,654 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-03 11:32:05,112 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-03 11:32:05,112 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-03 11:32:05,113 - INFO -  * Restarting with stat
+2025-07-03 11:32:05,459 - WARNING -  * Debugger is active!
+2025-07-03 11:32:05,461 - INFO -  * Debugger PIN: 325-965-416
+2025-07-03 11:32:10,273 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:10] "GET / HTTP/1.1" 200 -
+2025-07-03 11:32:10,316 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-03 11:32:13,915 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:13] "GET / HTTP/1.1" 200 -
+2025-07-03 11:32:13,926 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-03 11:32:14,214 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:14] "GET / HTTP/1.1" 200 -
+2025-07-03 11:32:14,225 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-03 11:32:14,383 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:14] "GET / HTTP/1.1" 200 -
+2025-07-03 11:32:14,398 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-03 11:32:14,543 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:14] "GET / HTTP/1.1" 200 -
+2025-07-03 11:32:14,554 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-03 11:32:14,702 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:14] "GET / HTTP/1.1" 200 -
+2025-07-03 11:32:14,716 - INFO - 127.0.0.1 - - [03/Jul/2025 11:32:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-03 11:32:31,462 - INFO - Server check: OK
+2025-07-03 11:32:31,463 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-03 11:32:31,464 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (441 ký t\u1ef1)
+2025-07-03 11:32:33,825 - INFO - Audio ID \u0111o\u1ea1n 1: 706218
+2025-07-03 11:32:36,358 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-03 11:32:41,558 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-03 11:32:46,736 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-03 11:32:53,050 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-03 11:32:58,260 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-03 11:33:03,542 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-03 11:33:08,748 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-03 11:33:13,956 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 8/60
+2025-07-03 11:33:19,153 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 9/60
+2025-07-03 11:33:24,350 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/f1deb9fb-0f55-48c1-8076-a88e8537b065_1fadcf04-9e0c-4b70-885e-f23a5a067719.wav
+2025-07-03 11:33:24,350 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (385 ký t\u1ef1)
+2025-07-03 11:33:27,261 - INFO - Audio ID \u0111o\u1ea1n 2: 706230
+2025-07-03 11:33:29,890 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-03 11:33:36,453 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-03 11:33:41,660 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-03 11:33:46,857 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-03 11:33:52,056 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-03 11:33:57,256 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-03 11:34:02,455 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-03 11:34:07,744 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 8/60
+2025-07-03 11:34:12,953 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 9/60
+2025-07-03 11:34:18,156 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 10/60
+2025-07-03 11:34:23,353 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 11/60
+2025-07-03 11:34:28,550 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 12/60
+2025-07-03 11:34:33,947 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 13/60
+2025-07-03 11:34:39,161 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/16d1b881-68d6-4c31-aaf5-2fa1d17ddb73_d5758676-7166-4b0f-baca-f16f3bcae75c.wav
+2025-07-03 11:34:39,161 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/f1deb9fb-0f55-48c1-8076-a88e8537b065_1fadcf04-9e0c-4b70-885e-f23a5a067719.wav
+2025-07-03 11:34:40,070 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-03 11:34:40,071 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/16d1b881-68d6-4c31-aaf5-2fa1d17ddb73_d5758676-7166-4b0f-baca-f16f3bcae75c.wav
+2025-07-03 11:34:41,566 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-03 11:34:42,025 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-03 11:34:42,026 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-03 11:34:42,026 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-03 11:34:42,026 - INFO - 127.0.0.1 - - [03/Jul/2025 11:34:42] "POST /tts HTTP/1.1" 200 -
+2025-07-03 11:37:15,853 - INFO - 127.0.0.1 - - [03/Jul/2025 11:37:15] "GET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1" 200 -
+2025-07-03 11:38:16,966 - INFO - 127.0.0.1 - - [03/Jul/2025 11:38:16] "GET / HTTP/1.1" 200 -
+2025-07-03 11:38:16,979 - INFO - 127.0.0.1 - - [03/Jul/2025 11:38:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 08:25:55,248 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 08:25:55,248 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 08:25:55,248 - INFO -  * Restarting with stat
+2025-07-04 08:25:55,582 - WARNING -  * Debugger is active!
+2025-07-04 08:25:55,586 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 08:26:50,256 - INFO - 127.0.0.1 - - [04/Jul/2025 08:26:50] "GET / HTTP/1.1" 200 -
+2025-07-04 08:26:50,391 - INFO - 127.0.0.1 - - [04/Jul/2025 08:26:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 08:26:50,440 - INFO - 127.0.0.1 - - [04/Jul/2025 08:26:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 08:27:22,549 - INFO - Server check: OK
+2025-07-04 08:27:22,551 - INFO - Chia thành 1 \u0111o\u1ea1n
+2025-07-04 08:27:22,551 - ERROR - \u0110o\u1ea1n 1 v\u01b0\u1ee3t gi\u1edbi h\u1ea1n 500 ký t\u1ef1: 667
+2025-07-04 08:27:22,553 - INFO - 127.0.0.1 - - [04/Jul/2025 08:27:22] "[31m[1mPOST /tts HTTP/1.1[0m" 400 -
+2025-07-04 08:27:34,774 - INFO - 127.0.0.1 - - [04/Jul/2025 08:27:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 08:27:34,777 - INFO - 127.0.0.1 - - [04/Jul/2025 08:27:34] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-07-04 08:29:04,948 - INFO - Server check: OK
+2025-07-04 08:29:04,962 - INFO - Chia thành 1 \u0111o\u1ea1n
+2025-07-04 08:29:04,962 - ERROR - \u0110o\u1ea1n 1 v\u01b0\u1ee3t gi\u1edbi h\u1ea1n 500 ký t\u1ef1: 667
+2025-07-04 08:29:04,962 - INFO - 127.0.0.1 - - [04/Jul/2025 08:29:04] "[31m[1mPOST /tts HTTP/1.1[0m" 400 -
+2025-07-04 08:36:49,401 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 08:36:49,450 - INFO -  * Restarting with stat
+2025-07-04 08:36:49,795 - WARNING -  * Debugger is active!
+2025-07-04 08:36:49,811 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 08:36:51,156 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 08:36:51,189 - INFO -  * Restarting with stat
+2025-07-04 08:36:51,550 - WARNING -  * Debugger is active!
+2025-07-04 08:36:51,553 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 08:41:12,062 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 08:41:12,106 - INFO -  * Restarting with stat
+2025-07-04 08:41:12,502 - WARNING -  * Debugger is active!
+2025-07-04 08:41:12,505 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 08:46:11,131 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 08:46:11,131 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 08:46:11,133 - INFO -  * Restarting with stat
+2025-07-04 08:46:11,473 - WARNING -  * Debugger is active!
+2025-07-04 08:46:11,473 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 08:46:13,918 - INFO - 127.0.0.1 - - [04/Jul/2025 08:46:13] "GET / HTTP/1.1" 200 -
+2025-07-04 08:46:13,976 - INFO - 127.0.0.1 - - [04/Jul/2025 08:46:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 08:46:14,527 - INFO - 127.0.0.1 - - [04/Jul/2025 08:46:14] "GET / HTTP/1.1" 200 -
+2025-07-04 08:46:14,542 - INFO - 127.0.0.1 - - [04/Jul/2025 08:46:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 08:46:14,699 - INFO - 127.0.0.1 - - [04/Jul/2025 08:46:14] "GET / HTTP/1.1" 200 -
+2025-07-04 08:46:14,712 - INFO - 127.0.0.1 - - [04/Jul/2025 08:46:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 08:46:56,429 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 08:46:56,873 - INFO - Server check: OK
+2025-07-04 08:46:56,875 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-04 08:46:56,876 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (474 ký t\u1ef1)
+2025-07-04 08:46:57,798 - INFO - Audio ID \u0111o\u1ea1n 1: 709703
+2025-07-04 08:46:59,034 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 08:47:04,290 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 08:47:09,473 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 08:47:15,777 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 08:47:21,011 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 08:47:26,257 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 08:47:31,462 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-04 08:47:36,663 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 8/60
+2025-07-04 08:47:41,861 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 9/60
+2025-07-04 08:47:47,083 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 10/60
+2025-07-04 08:47:52,276 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 11/60
+2025-07-04 08:47:57,465 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 12/60
+2025-07-04 08:48:02,710 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/692c2651-8321-463f-af16-0fcd9449c88d_8a78ec11-482c-4a60-b693-1f8ee7970d2e.wav
+2025-07-04 08:48:02,710 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (176 ký t\u1ef1)
+2025-07-04 08:48:03,694 - INFO - Audio ID \u0111o\u1ea1n 2: 709708
+2025-07-04 08:48:04,870 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 08:48:10,083 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 08:48:15,307 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 08:48:20,562 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 08:48:25,863 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 08:48:31,078 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 08:48:36,278 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-04 08:48:41,513 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 8/60
+2025-07-04 08:48:46,763 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 9/60
+2025-07-04 08:48:51,969 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 10/60
+2025-07-04 08:48:58,189 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/f734e9f0-e71e-4267-bf60-b32d8642b6ea_a3be013f-c220-468e-b62f-a57f2dc9304c.wav
+2025-07-04 08:48:58,189 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/692c2651-8321-463f-af16-0fcd9449c88d_8a78ec11-482c-4a60-b693-1f8ee7970d2e.wav
+2025-07-04 08:48:59,909 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 08:48:59,909 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/f734e9f0-e71e-4267-bf60-b32d8642b6ea_a3be013f-c220-468e-b62f-a57f2dc9304c.wav
+2025-07-04 08:49:00,780 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 08:49:01,212 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 08:49:01,213 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 08:49:01,213 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-04 08:49:01,214 - INFO - 127.0.0.1 - - [04/Jul/2025 08:49:01] "POST /tts HTTP/1.1" 200 -
+2025-07-04 15:19:10,206 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 15:19:10,206 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 15:19:10,208 - INFO -  * Restarting with stat
+2025-07-04 15:19:10,553 - WARNING -  * Debugger is active!
+2025-07-04 15:19:10,558 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 15:19:14,557 - INFO - 127.0.0.1 - - [04/Jul/2025 15:19:14] "GET / HTTP/1.1" 200 -
+2025-07-04 15:19:14,687 - INFO - 127.0.0.1 - - [04/Jul/2025 15:19:14] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-04 15:19:17,185 - INFO - 127.0.0.1 - - [04/Jul/2025 15:19:17] "GET / HTTP/1.1" 200 -
+2025-07-04 15:19:17,200 - INFO - 127.0.0.1 - - [04/Jul/2025 15:19:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:36:02,559 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 15:36:02,620 - INFO -  * Restarting with stat
+2025-07-04 15:36:03,086 - WARNING -  * Debugger is active!
+2025-07-04 15:36:03,089 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 15:36:12,395 - INFO - 127.0.0.1 - - [04/Jul/2025 15:36:12] "GET / HTTP/1.1" 200 -
+2025-07-04 15:36:12,474 - INFO - 127.0.0.1 - - [04/Jul/2025 15:36:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:36:13,024 - INFO - 127.0.0.1 - - [04/Jul/2025 15:36:13] "GET / HTTP/1.1" 200 -
+2025-07-04 15:36:13,038 - INFO - 127.0.0.1 - - [04/Jul/2025 15:36:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:36:21,159 - INFO - 127.0.0.1 - - [04/Jul/2025 15:36:21] "GET / HTTP/1.1" 200 -
+2025-07-04 15:36:21,172 - INFO - 127.0.0.1 - - [04/Jul/2025 15:36:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:37:11,227 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 15:37:11,742 - INFO - Server check: OK
+2025-07-04 15:37:11,743 - INFO - Chia thành 24 \u0111o\u1ea1n
+2025-07-04 15:37:11,743 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (29 ký t\u1ef1)
+2025-07-04 15:37:13,417 - INFO - Audio ID \u0111o\u1ea1n 1: 712246
+2025-07-04 15:37:14,655 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 15:37:19,868 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 15:37:25,122 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 15:37:30,345 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/b3755cfd-f670-4a61-9061-c0ff96a65f86_4473698e-4cde-4bcf-9323-95bacfc2a2ec.wav
+2025-07-04 15:37:30,346 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (26 ký t\u1ef1)
+2025-07-04 15:37:31,169 - INFO - Audio ID \u0111o\u1ea1n 2: 712248
+2025-07-04 15:37:32,404 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 15:37:37,627 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 15:37:42,838 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 15:37:48,110 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/33078423-be4c-48ea-8072-8b1f19ec4919_5ca05631-4f51-48c2-8518-bce675899019.wav
+2025-07-04 15:37:48,110 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 3 (34 ký t\u1ef1)
+2025-07-04 15:37:49,477 - INFO - Audio ID \u0111o\u1ea1n 3: 712253
+2025-07-04 15:37:50,748 - INFO - \u0110o\u1ea1n 3 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 15:37:56,660 - INFO - \u0110o\u1ea1n 3 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 15:38:01,851 - INFO - \u0110o\u1ea1n 3 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 15:38:07,136 - INFO - Audio URL \u0111o\u1ea1n 3: https://cdn-ausync-endpoint.azureedge.net/audio/acd18a54-f0a8-4a67-a0c3-1659744dfd8a_c0cd7247-5a75-4fc5-b376-126a1d814a2a.wav
+2025-07-04 15:38:07,136 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 4 (30 ký t\u1ef1)
+2025-07-04 15:38:09,258 - INFO - Audio ID \u0111o\u1ea1n 4: 712255
+2025-07-04 15:38:10,487 - INFO - \u0110o\u1ea1n 4 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 15:38:15,751 - INFO - \u0110o\u1ea1n 4 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 15:51:11,283 - WARNING -  * Debugger is active!
+2025-07-04 15:51:11,289 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 15:51:13,182 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 15:51:13,182 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 15:51:13,183 - INFO -  * Restarting with stat
+2025-07-04 15:51:13,499 - WARNING -  * Debugger is active!
+2025-07-04 15:51:13,502 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 15:51:16,607 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:16] "GET / HTTP/1.1" 200 -
+2025-07-04 15:51:16,656 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:51:54,961 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:54] "GET / HTTP/1.1" 200 -
+2025-07-04 15:51:54,977 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:51:55,303 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:55] "GET / HTTP/1.1" 200 -
+2025-07-04 15:51:55,318 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:51:55,466 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:55] "GET / HTTP/1.1" 200 -
+2025-07-04 15:51:55,477 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:51:55,635 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:55] "GET / HTTP/1.1" 200 -
+2025-07-04 15:51:55,645 - INFO - 127.0.0.1 - - [04/Jul/2025 15:51:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:55:35,830 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 15:55:35,879 - INFO -  * Restarting with stat
+2025-07-04 15:55:36,232 - WARNING -  * Debugger is active!
+2025-07-04 15:55:36,234 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 15:56:04,782 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 15:56:04,783 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 15:56:04,784 - INFO -  * Restarting with stat
+2025-07-04 15:56:05,118 - WARNING -  * Debugger is active!
+2025-07-04 15:56:05,121 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 15:56:06,683 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:06] "GET / HTTP/1.1" 200 -
+2025-07-04 15:56:06,728 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:56:07,339 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:07] "GET / HTTP/1.1" 200 -
+2025-07-04 15:56:07,355 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:56:07,503 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:07] "GET / HTTP/1.1" 200 -
+2025-07-04 15:56:07,515 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:56:07,671 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:07] "GET / HTTP/1.1" 200 -
+2025-07-04 15:56:07,680 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:56:07,832 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:07] "GET / HTTP/1.1" 200 -
+2025-07-04 15:56:07,844 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:56:08,000 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:08] "GET / HTTP/1.1" 200 -
+2025-07-04 15:56:08,012 - INFO - 127.0.0.1 - - [04/Jul/2025 15:56:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:56:15,165 - INFO - Server check: OK
+2025-07-04 15:56:15,166 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-04 15:56:15,167 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (499 ký t\u1ef1)
+2025-07-04 15:56:16,242 - INFO - Audio ID \u0111o\u1ea1n 1: 712456
+2025-07-04 15:56:18,922 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 15:56:24,112 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 15:56:29,315 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 15:56:34,506 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 15:56:40,642 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 15:56:45,834 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 15:56:51,040 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-04 15:56:56,243 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/be04b115-5e4c-4320-a8b5-fd6c1ab71d5b_642196cc-638f-4a9d-a3b8-cbcfb0aad1dd.wav
+2025-07-04 15:56:56,243 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (265 ký t\u1ef1)
+2025-07-04 15:56:58,578 - INFO - Audio ID \u0111o\u1ea1n 2: 712472
+2025-07-04 15:57:00,094 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 15:57:05,331 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 15:57:10,520 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 15:57:15,726 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 15:57:20,927 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 15:57:26,118 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 15:57:31,444 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/3e087578-3599-4d7d-9564-115cdecb1776_a92fdca8-277c-4eaa-851b-517252cefa22.wav
+2025-07-04 15:57:31,444 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/be04b115-5e4c-4320-a8b5-fd6c1ab71d5b_642196cc-638f-4a9d-a3b8-cbcfb0aad1dd.wav
+2025-07-04 15:57:33,147 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 15:57:33,147 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/3e087578-3599-4d7d-9564-115cdecb1776_a92fdca8-277c-4eaa-851b-517252cefa22.wav
+2025-07-04 15:57:34,606 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 15:57:34,992 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 15:57:34,993 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 15:57:34,993 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-04 15:57:34,994 - INFO - 127.0.0.1 - - [04/Jul/2025 15:57:34] "POST /tts HTTP/1.1" 200 -
+2025-07-04 15:57:44,609 - INFO - 127.0.0.1 - - [04/Jul/2025 15:57:44] "GET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1" 200 -
+2025-07-04 15:57:44,677 - INFO - 127.0.0.1 - - [04/Jul/2025 15:57:44] "[35m[1mGET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1[0m" 206 -
+2025-07-04 15:58:12,648 - INFO - 127.0.0.1 - - [04/Jul/2025 15:58:12] "GET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1" 200 -
+2025-07-04 15:58:12,707 - INFO - 127.0.0.1 - - [04/Jul/2025 15:58:12] "[35m[1mGET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1[0m" 206 -
+2025-07-04 15:58:12,737 - INFO - 127.0.0.1 - - [04/Jul/2025 15:58:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 15:59:20,700 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 15:59:20,740 - INFO -  * Restarting with stat
+2025-07-04 15:59:21,089 - WARNING -  * Debugger is active!
+2025-07-04 15:59:21,098 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 15:59:23,910 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 15:59:23,911 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 15:59:23,912 - INFO -  * Restarting with stat
+2025-07-04 15:59:24,239 - WARNING -  * Debugger is active!
+2025-07-04 15:59:24,239 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 15:59:34,172 - INFO - 127.0.0.1 - - [04/Jul/2025 15:59:34] "GET / HTTP/1.1" 200 -
+2025-07-04 15:59:34,220 - INFO - 127.0.0.1 - - [04/Jul/2025 15:59:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 15:59:36,753 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 15:59:37,116 - INFO - Server check: OK
+2025-07-04 15:59:37,117 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-04 15:59:37,117 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (499 ký t\u1ef1)
+2025-07-04 15:59:37,958 - INFO - Audio ID \u0111o\u1ea1n 1: 712498
+2025-07-04 15:59:39,652 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 15:59:44,914 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 15:59:50,125 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 15:59:55,338 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:00:00,533 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:00:05,738 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 16:00:10,942 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-04 16:00:16,130 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 8/60
+2025-07-04 16:00:21,332 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/f73083a8-3486-45c9-a811-179efd8b9476_a2c83376-16e0-4146-880f-71a52d6fbdde.wav
+2025-07-04 16:00:21,333 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (265 ký t\u1ef1)
+2025-07-04 16:00:22,176 - INFO - Audio ID \u0111o\u1ea1n 2: 712504
+2025-07-04 16:00:23,378 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:00:28,604 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:00:33,835 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:00:39,047 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:00:44,241 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:00:49,428 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 16:00:54,628 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/ba6738cc-ff3a-4234-a5cc-dc69d8413785_4ffb27da-503f-4a02-9ab9-fe8ef1a2e2fe.wav
+2025-07-04 16:00:54,628 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/f73083a8-3486-45c9-a811-179efd8b9476_a2c83376-16e0-4146-880f-71a52d6fbdde.wav
+2025-07-04 16:00:56,868 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:00:56,868 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/ba6738cc-ff3a-4234-a5cc-dc69d8413785_4ffb27da-503f-4a02-9ab9-fe8ef1a2e2fe.wav
+2025-07-04 16:00:57,900 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:00:58,321 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:00:58,324 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:00:58,324 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-04 16:00:58,324 - INFO - 127.0.0.1 - - [04/Jul/2025 16:00:58] "POST /tts HTTP/1.1" 200 -
+2025-07-04 16:04:24,951 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 16:04:24,983 - INFO -  * Restarting with stat
+2025-07-04 16:04:25,407 - WARNING -  * Debugger is active!
+2025-07-04 16:04:25,411 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 16:05:43,620 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 16:05:43,621 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 16:05:43,622 - INFO -  * Restarting with stat
+2025-07-04 16:05:43,932 - WARNING -  * Debugger is active!
+2025-07-04 16:05:43,936 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 16:05:47,680 - INFO - 127.0.0.1 - - [04/Jul/2025 16:05:47] "GET / HTTP/1.1" 200 -
+2025-07-04 16:05:47,719 - INFO - 127.0.0.1 - - [04/Jul/2025 16:05:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 16:05:50,152 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 16:05:50,530 - INFO - Server check: OK
+2025-07-04 16:05:50,531 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-04 16:05:50,532 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (499 ký t\u1ef1)
+2025-07-04 16:05:51,428 - INFO - Audio ID \u0111o\u1ea1n 1: 712554
+2025-07-04 16:05:52,649 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:05:57,904 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:06:03,418 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:06:08,724 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:06:13,924 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:06:19,142 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 16:06:24,341 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-04 16:06:29,552 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/54088b8b-1922-425c-8a0f-97abc9d67380_5a9ac25f-567b-4174-9b01-64f937f5d685.wav
+2025-07-04 16:06:29,553 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (265 ký t\u1ef1)
+2025-07-04 16:06:31,256 - INFO - Audio ID \u0111o\u1ea1n 2: 712560
+2025-07-04 16:06:32,468 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:06:37,660 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:06:42,935 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:06:48,127 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:06:53,338 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:06:58,610 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 16:07:03,825 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/0a0c0044-0529-4975-b882-ecf5e80935c0_40dee041-e325-42e2-87c2-0a5470c41212.wav
+2025-07-04 16:07:03,825 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/54088b8b-1922-425c-8a0f-97abc9d67380_5a9ac25f-567b-4174-9b01-64f937f5d685.wav
+2025-07-04 16:07:05,185 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:07:05,185 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/0a0c0044-0529-4975-b882-ecf5e80935c0_40dee041-e325-42e2-87c2-0a5470c41212.wav
+2025-07-04 16:07:06,207 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:07:06,560 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:07:06,561 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:07:06,561 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-04 16:07:06,561 - INFO - 127.0.0.1 - - [04/Jul/2025 16:07:06] "POST /tts HTTP/1.1" 200 -
+2025-07-04 16:14:12,529 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 16:14:12,561 - INFO -  * Restarting with stat
+2025-07-04 16:14:14,062 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 16:14:14,062 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 16:14:14,062 - INFO -  * Restarting with stat
+2025-07-04 16:14:14,377 - WARNING -  * Debugger is active!
+2025-07-04 16:14:14,377 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 16:15:20,156 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 16:15:20,540 - INFO - Server check: OK
+2025-07-04 16:15:20,541 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-04 16:15:20,542 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (497 ký t\u1ef1)
+2025-07-04 16:15:21,880 - INFO - Audio ID \u0111o\u1ea1n 1: 712611
+2025-07-04 16:15:23,067 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:15:28,278 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:15:33,524 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:15:38,734 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:15:43,946 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:15:49,150 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 16:15:54,372 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-04 16:15:59,557 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 8/60
+2025-07-04 16:16:04,781 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 9/60
+2025-07-04 16:16:10,008 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 10/60
+2025-07-04 16:16:15,228 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 11/60
+2025-07-04 16:16:20,434 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 12/60
+2025-07-04 16:16:25,624 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 13/60
+2025-07-04 16:16:30,844 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 14/60
+2025-07-04 16:16:36,025 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/f7dee4c0-6d21-460c-8799-afb8e88dc353_85d38448-005e-43ce-bf45-5ad13feb4683.wav
+2025-07-04 16:16:36,025 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (386 ký t\u1ef1)
+2025-07-04 16:16:36,874 - INFO - Audio ID \u0111o\u1ea1n 2: 712620
+2025-07-04 16:16:38,650 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:16:43,844 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:16:49,040 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:18:34,138 - WARNING - Polling l\u1ed7i \u0111o\u1ea1n 2, th\u1eed l\u1ea1i 4/60: 524 Server Error: <none> for url: https://api.ausynclab.org/api/v1/speech/712620
+2025-07-04 16:18:34,331 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/f966ab41-98ac-4c3f-b9a2-a78cd2ac752e_c8423a48-6156-4ad8-b1a6-eaedc107b8ab.wav
+2025-07-04 16:18:34,331 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/f7dee4c0-6d21-460c-8799-afb8e88dc353_85d38448-005e-43ce-bf45-5ad13feb4683.wav
+2025-07-04 16:18:35,899 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:18:35,900 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/f966ab41-98ac-4c3f-b9a2-a78cd2ac752e_c8423a48-6156-4ad8-b1a6-eaedc107b8ab.wav
+2025-07-04 16:18:37,086 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:18:37,501 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:18:37,502 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:18:37,502 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-04 16:18:37,503 - INFO - 127.0.0.1 - - [04/Jul/2025 16:18:37] "POST /tts HTTP/1.1" 200 -
+2025-07-04 16:18:56,548 - INFO - 127.0.0.1 - - [04/Jul/2025 16:18:56] "GET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1" 200 -
+2025-07-04 16:18:56,651 - INFO - 127.0.0.1 - - [04/Jul/2025 16:18:56] "[35m[1mGET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1[0m" 206 -
+2025-07-04 16:18:56,682 - INFO - 127.0.0.1 - - [04/Jul/2025 16:18:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 16:21:25,929 - INFO - 127.0.0.1 - - [04/Jul/2025 16:21:25] "GET / HTTP/1.1" 200 -
+2025-07-04 16:21:25,945 - INFO - 127.0.0.1 - - [04/Jul/2025 16:21:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 16:21:32,123 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 16:21:32,436 - INFO - Server check: OK
+2025-07-04 16:21:32,436 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-04 16:21:32,437 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (494 ký t\u1ef1)
+2025-07-04 16:21:34,255 - INFO - Audio ID \u0111o\u1ea1n 1: 712657
+2025-07-04 16:21:35,486 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:21:40,729 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:21:45,957 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:21:51,134 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:21:56,362 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:22:01,555 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 16:22:06,755 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-04 16:22:11,956 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 8/60
+2025-07-04 16:22:17,151 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 9/60
+2025-07-04 16:22:22,340 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 10/60
+2025-07-04 16:22:27,574 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 11/60
+2025-07-04 16:22:32,752 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 12/60
+2025-07-04 16:22:38,038 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 13/60
+2025-07-04 16:22:43,261 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/79b48e74-be65-4ae1-ad45-c6876e561918_281a3661-46a2-4c63-b119-816b4fabc37e.wav
+2025-07-04 16:22:43,261 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (36 ký t\u1ef1)
+2025-07-04 16:22:44,173 - INFO - Audio ID \u0111o\u1ea1n 2: 712665
+2025-07-04 16:22:45,884 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:22:51,142 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:22:56,361 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:23:01,552 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:23:06,742 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:23:11,952 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 16:23:17,181 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/d59ed516-5c37-49e7-a7be-23cfc30d9325_dccb11bf-1034-4ad6-81df-c76e9c0a727c.wav
+2025-07-04 16:23:17,181 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/79b48e74-be65-4ae1-ad45-c6876e561918_281a3661-46a2-4c63-b119-816b4fabc37e.wav
+2025-07-04 16:23:18,909 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:23:18,910 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/d59ed516-5c37-49e7-a7be-23cfc30d9325_dccb11bf-1034-4ad6-81df-c76e9c0a727c.wav
+2025-07-04 16:23:19,489 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:23:19,815 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:23:19,845 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:23:19,845 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-04 16:23:19,846 - INFO - 127.0.0.1 - - [04/Jul/2025 16:23:19] "POST /tts HTTP/1.1" 200 -
+2025-07-04 16:23:58,115 - INFO -  * Detected change in 'c:\\Users\\Admin\\Downloads\\tts-web-app\\app.py', reloading
+2025-07-04 16:23:58,169 - INFO -  * Restarting with stat
+2025-07-04 16:23:58,544 - WARNING -  * Debugger is active!
+2025-07-04 16:23:58,547 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 16:24:09,116 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 16:24:09,116 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 16:24:09,117 - INFO -  * Restarting with stat
+2025-07-04 16:24:09,435 - WARNING -  * Debugger is active!
+2025-07-04 16:24:09,435 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 16:24:14,887 - INFO - 127.0.0.1 - - [04/Jul/2025 16:24:14] "GET / HTTP/1.1" 200 -
+2025-07-04 16:24:14,940 - INFO - 127.0.0.1 - - [04/Jul/2025 16:24:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-07-04 16:24:41,993 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 16:24:42,446 - INFO - Server check: OK
+2025-07-04 16:24:42,446 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-04 16:24:42,446 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (494 ký t\u1ef1)
+2025-07-04 16:24:43,444 - INFO - Audio ID \u0111o\u1ea1n 1: 712678
+2025-07-04 16:24:45,213 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:24:50,458 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:24:55,662 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:25:02,895 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:25:08,157 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:25:13,370 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/86d81597-a629-4c46-8376-4bcd68a3a8a8_5af86813-c11e-4c0c-b53a-48207e8d3761.wav
+2025-07-04 16:25:13,371 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (36 ký t\u1ef1)
+2025-07-04 16:25:15,493 - INFO - Audio ID \u0111o\u1ea1n 2: 712681
+2025-07-04 16:25:16,718 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:25:21,982 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:25:27,252 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/b6cb3361-8bcc-46d9-ad78-cda733b09bbf_61593f08-2cc7-4216-832b-f054ad08c015.wav
+2025-07-04 16:25:27,254 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/86d81597-a629-4c46-8376-4bcd68a3a8a8_5af86813-c11e-4c0c-b53a-48207e8d3761.wav
+2025-07-04 16:25:28,345 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:25:28,345 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/b6cb3361-8bcc-46d9-ad78-cda733b09bbf_61593f08-2cc7-4216-832b-f054ad08c015.wav
+2025-07-04 16:25:28,874 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:25:29,184 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:25:29,184 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:25:29,185 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-04 16:25:29,185 - INFO - 127.0.0.1 - - [04/Jul/2025 16:25:29] "POST /tts HTTP/1.1" 200 -
+2025-07-04 16:32:19,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 16:32:19,599 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-04 16:32:19,600 - INFO -  * Restarting with stat
+2025-07-04 16:32:19,936 - WARNING -  * Debugger is active!
+2025-07-04 16:32:19,940 - INFO -  * Debugger PIN: 325-965-416
+2025-07-04 16:32:20,098 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:20] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:20,145 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:20,147 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:20] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:21,765 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:21] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:21,778 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:21,781 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:21] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:22,202 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:22] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:22,217 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:22] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:22,218 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:22] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:22,376 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:22] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:22,388 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:22] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:22,390 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:22] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:33,849 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:33] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:33,866 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:33,867 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:33] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:34,477 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:34,488 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:34,490 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:34,634 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:34,648 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:34,650 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:34,816 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:34,830 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:34,830 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:34,977 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:34,989 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:34,990 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:34] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:35,144 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:35,156 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:35,162 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:35,337 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:35,351 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:35,352 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:35,506 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:35,518 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:35,519 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:35,693 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:35,705 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:32:35,707 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:35] "[33mGET /script.js HTTP/1.1[0m" 404 -
+2025-07-04 16:32:53,139 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:53] "GET / HTTP/1.1" 200 -
+2025-07-04 16:32:53,187 - INFO - 127.0.0.1 - - [04/Jul/2025 16:32:53] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-04 16:33:57,455 - INFO - 127.0.0.1 - - [04/Jul/2025 16:33:57] "GET / HTTP/1.1" 200 -
+2025-07-04 16:33:57,474 - INFO - 127.0.0.1 - - [04/Jul/2025 16:33:57] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-07-04 16:37:32,710 - INFO - 127.0.0.1 - - [04/Jul/2025 16:37:32] "GET / HTTP/1.1" 200 -
+2025-07-04 16:37:32,725 - INFO - 127.0.0.1 - - [04/Jul/2025 16:37:32] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-04 16:39:35,209 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 16:39:35,634 - INFO - Server check: OK
+2025-07-04 16:39:35,636 - INFO - Chia thành 2 \u0111o\u1ea1n
+2025-07-04 16:39:35,637 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 1 (498 ký t\u1ef1)
+2025-07-04 16:39:37,118 - INFO - Audio ID \u0111o\u1ea1n 1: 712733
+2025-07-04 16:39:38,309 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:39:43,577 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:39:48,786 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:39:53,996 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:39:59,271 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 5/60
+2025-07-04 16:40:04,504 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 6/60
+2025-07-04 16:40:09,693 - INFO - \u0110o\u1ea1n 1 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 7/60
+2025-07-04 16:40:14,876 - INFO - Audio URL \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/9f8b1cf1-014d-4e28-950c-bfe2cd55dde7_13ebba38-cbae-42ef-b769-ca931c2bbfc0.wav
+2025-07-04 16:40:14,876 - INFO - T\u1ea1o audio cho \u0111o\u1ea1n 2 (234 ký t\u1ef1)
+2025-07-04 16:40:15,921 - INFO - Audio ID \u0111o\u1ea1n 2: 712735
+2025-07-04 16:40:17,107 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 1/60
+2025-07-04 16:40:22,381 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 2/60
+2025-07-04 16:40:27,583 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 3/60
+2025-07-04 16:40:32,791 - INFO - \u0110o\u1ea1n 2 ch\u01b0a s\u1eb5n sàng, th\u1eed l\u1ea1i 4/60
+2025-07-04 16:40:37,985 - INFO - Audio URL \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/6dbb6526-621f-46e0-871c-71ee82bed330_a81170d6-2a82-457b-ac7b-5afc3a021021.wav
+2025-07-04 16:40:37,986 - INFO - T\u1ea3i file \u0111o\u1ea1n 1: https://cdn-ausync-endpoint.azureedge.net/audio/9f8b1cf1-014d-4e28-950c-bfe2cd55dde7_13ebba38-cbae-42ef-b769-ca931c2bbfc0.wav
+2025-07-04 16:40:39,843 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 1: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:40:39,843 - INFO - T\u1ea3i file \u0111o\u1ea1n 2: https://cdn-ausync-endpoint.azureedge.net/audio/6dbb6526-621f-46e0-871c-71ee82bed330_a81170d6-2a82-457b-ac7b-5afc3a021021.wav
+2025-07-04 16:40:41,011 - INFO - L\u01b0u MP3 \u0111o\u1ea1n 2: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:40:41,425 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_1.mp3
+2025-07-04 16:40:41,425 - INFO - Xóa file t\u1ea1m: downloads\bai_giang_ausync_part_2.mp3
+2025-07-04 16:40:41,425 - INFO - Hoàn thành x\u1eed lý TTS
+2025-07-04 16:40:41,426 - INFO - 127.0.0.1 - - [04/Jul/2025 16:40:41] "POST /tts HTTP/1.1" 200 -
+2025-07-04 16:40:46,292 - INFO - 127.0.0.1 - - [04/Jul/2025 16:40:46] "GET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1" 200 -
+2025-07-04 16:40:46,361 - INFO - 127.0.0.1 - - [04/Jul/2025 16:40:46] "[35m[1mGET /downloads/bai_giang_ausync_full.mp3 HTTP/1.1[0m" 206 -
+2025-07-04 16:40:46,392 - INFO - 127.0.0.1 - - [04/Jul/2025 16:40:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 16:41:51,746 - INFO - 127.0.0.1 - - [04/Jul/2025 16:41:51] "GET / HTTP/1.1" 200 -
+2025-07-04 16:41:51,769 - INFO - 127.0.0.1 - - [04/Jul/2025 16:41:51] "GET /static/style.css HTTP/1.1" 200 -
+2025-07-04 16:41:56,962 - INFO - Xóa file c\u0169: downloads\bai_giang_ausync_full.mp3
+2025-07-04 16:41:57,191 - INFO - Server check: OK
+2025-07-04 16:41:57,193 - ERROR - V\u0103n b\u1ea3n r\u1ed7ng
+2025-07-04 16:41:57,193 - INFO - 127.0.0.1 - - [04/Jul/2025 16:41:57] "[31m[1mPOST /tts HTTP/1.1[0m" 400 -
