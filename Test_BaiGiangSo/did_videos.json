@@ -1,0 +1,32 @@
+[
+  {
+    "slide_number": 1,
+    "title": "Slide 1: Giới thiệu bài học",
+    "video_url_online": "https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C110302165175052051723/tlk__ASdELptFI8_nTKFTTARo/1752227914683.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1752314327&Signature=PxXVERlPTIV0Bxl9LxNIjpmg1TA%3D",
+    "local_video_path": "videos\\slide_1.mp4"
+  },
+  {
+    "slide_number": 2,
+    "title": "Slide 2: Số và chữ số",
+    "video_url_online": "https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C110302165175052051723/tlk_Wcxrv1kJ_6aC0nAQB-sLK/1752227937080.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1752314344&Signature=4SmfxHB6wOGTYm6uIhanQ1UafEY%3D",
+    "local_video_path": "videos\\slide_2.mp4"
+  },
+  {
+    "slide_number": 3,
+    "title": "Slide 3: Khái niệm phép cộng",
+    "video_url_online": "https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C110302165175052051723/tlk_opQ2-e0rOgth0Jx65SZBU/1752227964938.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1752314374&Signature=qOlHylNoo5KPwJFYpms0avVILz4%3D",
+    "local_video_path": "videos\\slide_3.mp4"
+  },
+  {
+    "slide_number": 4,
+    "title": "Slide 4: Biểu tượng phép cộng",
+    "video_url_online": "https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C110302165175052051723/tlk_HZiG7uDVZuXgAjX9wWT0W/1752227987386.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1752314396&Signature=BsilvOEoKM6cR2yTEszn6g70Fws%3D",
+    "local_video_path": "videos\\slide_4.mp4"
+  },
+  {
+    "slide_number": 5,
+    "title": "Slide 5: Số hạng và tổng",
+    "video_url_online": "https://d-id-talks-prod.s3.us-west-2.amazonaws.com/google-oauth2%7C110302165175052051723/tlk_1Aubfi-scabCwkvXEYDdT/1752228010311.mp4?AWSAccessKeyId=AKIA5CUMPJBIK65W6FGA&Expires=1752314419&Signature=dSSatu%2F7bqtpLj95GJnbaf6vWiM%3D",
+    "local_video_path": "videos\\slide_5.mp4"
+  }
+]

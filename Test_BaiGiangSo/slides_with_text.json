@@ -1,0 +1,242 @@
+[
+  {
+    "slide_number": 1,
+    "title": "Slide 1: Giới thiệu bài học",
+    "original_text": "Phép cộng là phép toán đầu tiên mà học sinh lớp 1 sẽ được học. Đây là nền tảng quan trọng để làm quen với các phép tính khác. ",
+    "generated_lecture": "Chào các con! Hôm nay, cô sẽ giới thiệu cho mình một người bạn mới rất hay ho nhé! Đó là phép cộng.\n\nPhép cộng là gì nhỉ? À, đơn giản lắm! Các con nhìn nè, cô có 2 cái kẹo, bây giờ cô cho thêm 1 cái kẹo nữa. Thế là cô có mấy cái kẹo tất cả? (Đếm: 1, 2, 3!) Đúng rồi, là 3 cái kẹo!\n\nHoặc là, con có 1 ngón tay. Thêm 1 ngón tay nữa. Là mình có mấy ngón tay nhỉ? (Đếm: 1, 2!) Đó chính là phép cộng đó!...",
+    "audio_path": "audios\\slide_1.mp3",
+    "duration": 27.82
+  },
+  {
+    "slide_number": 2,
+    "title": "Slide 2: Số và chữ số",
+    "original_text": "Trước khi học phép cộng, học sinh cần nhận biết các số từ 0 đến 10 và hiểu được thứ tự của chúng. ",
+    "generated_lecture": "Muốn cộng thật giỏi, đầu tiên mình phải nhớ mặt các số từ 0 đến 10 cái đã. Giống như con có 3 cái kẹo, đếm đủ 1, 2, 3 đó! Mình cũng phải biết số nào đứng trước, số nào đứng sau nữa nha. Ví dụ như số 2 thì đứng sau số 1, đúng không nào?",
+    "audio_path": "audios\\slide_2.mp3",
+    "duration": 12.76
+  },
+  {
+    "slide_number": 3,
+    "title": "Slide 3: Khái niệm phép cộng",
+    "original_text": "Phép cộng là quá trình kết hợp hai nhóm đối tượng lại với nhau để tìm tổng số đối tượng. ",
+    "generated_lecture": "Phép cộng đơn giản là mình 'gộp' các đồ vật vào với nhau đó con. Ví dụ nhé, cô có 2 quả táo xinh xinh (giơ tay), bạn An có thêm 1 quả nữa. Khi mình gộp tất cả táo lại, mình đếm xem có bao nhiêu quả tất cả? Đó chính là tìm 'tổng cộng' đó! Các con thử nghĩ xem, nếu mình có 3 ngón tay bên này và 2 ngón bên kia, gộp lại thì được bao nhiêu ngón tay nhỉ?",
+    "audio_path": "audios\\slide_3.mp3",
+    "duration": 22.39
+  },
+  {
+    "slide_number": 4,
+    "title": "Slide 4: Biểu tượng phép cộng",
+    "original_text": "Dấu '+' được dùng để biểu thị phép cộng. Ví dụ: 2 + 3 nghĩa là lấy 2 rồi thêm 3. ",
+    "generated_lecture": "Đây là dấu cộng nè (viết dấu +). Dấu này có nghĩa là mình có một số lượng, rồi mình *thêm vào* nữa để gộp lại thành nhiều hơn. Ví dụ nha, con có 2 cái bánh, cô cho thêm 3 cái nữa. Thế là mình có 2 cộng 3 cái bánh đó! Dấu cộng giúp mình tính tổng khi mình có thêm đồ vật. Dấu cộng này đặc biệt phải không nào?",
+    "audio_path": "audios\\slide_4.mp3",
+    "duration": 19.7
+  },
+  {
+    "slide_number": 5,
+    "title": "Slide 5: Số hạng và tổng",
+    "original_text": "Trong phép cộng, các số được cộng gọi là số hạng. Kết quả gọi là tổng. Ví dụ: 2 + 3 = 5, thì 2 và 3 là số hạng, 5 là tổng. ",
+    "generated_lecture": "Mình có 2 viên kẹo, thêm 3 viên kẹo nữa. Số 2 và số 3 này, chúng mình gọi là những **số hạng** đó con! Khi mình đếm được tất cả là 5 viên, thì số 5 đó chính là **tổng** của mình. Vậy con nhớ nhé, các số mình cộng vào là **số hạng**, còn kết quả cuối cùng là **tổng** nha!",
+    "audio_path": "audios\\slide_5.mp3",
+    "duration": 20.02
+  },
+  {
+    "slide_number": 6,
+    "title": "Slide 6: Cách đếm để cộng",
+    "original_text": "Học sinh có thể dùng ngón tay hoặc vật thật để đếm khi cộng. Ví dụ: 2 quả táo cộng 3 quả táo. ",
+    "generated_lecture": "Khi mình cộng các số, mình có thể dùng ngay 10 ngón tay xinh xắn của mình để đếm đấy! Hoặc là mình dùng những đồ vật thật. Ví dụ, cô có 2 cái kẹo ngọt, giờ cô cho con thêm 3 cái kẹo nữa. Vậy là con có tất cả mấy cái kẹo nhỉ? Thử đếm xem nào!",
+    "audio_path": "audios\\slide_6.mp3",
+    "duration": 15.48
+  },
+  {
+    "slide_number": 7,
+    "title": "Slide 7: Phép cộng với số 0",
+    "original_text": "Bất kỳ số nào cộng với 0 đều bằng chính nó. Ví dụ: 5 + 0 = 5. ",
+    "generated_lecture": "Khi mình cộng một số với số 0, nó vẫn là chính số đó đó các con! Giống như con có 5 quả táo, mà mẹ không cho thêm quả nào (tức là cộng 0), thì con vẫn có 5 quả táo, đúng không nè? Số 0 giống như \"không có gì thêm cả\" vậy. Đố con 10 ngón tay cộng 0 thì bằng mấy ngón tay?",
+    "audio_path": "audios\\slide_7.mp3",
+    "duration": 18.77
+  },
+  {
+    "slide_number": 8,
+    "title": "Slide 8: Phép cộng bằng hình ảnh",
+    "original_text": "Dùng hình ảnh như que tính hoặc hình tròn để minh họa phép cộng giúp học sinh dễ hiểu hơn. ",
+    "generated_lecture": "Cô có 2 cái kẹo ngọt lịm này! (Giơ 2 ngón tay). Bạn Bi cho cô thêm 1 cái kẹo nữa. (Giơ thêm 1 ngón tay). Vậy cô có tất cả mấy cái kẹo nhỉ? Chúng mình cùng đếm nhé: 1, 2, 3! Có 3 cái kẹo! Cộng thật vui phải không nào?",
+    "audio_path": "audios\\slide_8.mp3",
+    "duration": 17.19
+  },
+  {
+    "slide_number": 9,
+    "title": "Slide 9: Thứ tự số trong phép cộng",
+    "original_text": "Trong phép cộng, thứ tự các số không làm thay đổi kết quả: 2 + 3 = 3 + 2. ",
+    "generated_lecture": "Con giơ 2 ngón tay lên nào! Thêm 3 ngón tay nữa. Cùng đếm xem có bao nhiêu ngón? Đúng rồi, 5 ngón!\n\nBây giờ, mình giơ 3 ngón tay trước, rồi thêm 2 ngón tay nữa nhé. Có bao nhiêu ngón nhỉ? À, vẫn là 5 ngón!\n\nVậy là dù mình cộng số nào trước, số nào sau, kết quả cuối cùng vẫn giống y như cũ đó! Các con thấy vui không?",
+    "audio_path": "audios\\slide_9.mp3",
+    "duration": 18.87
+  },
+  {
+    "slide_number": 10,
+    "title": "Slide 10: Cách viết phép cộng",
+    "original_text": "Phép cộng được viết theo hàng ngang: số + số = tổng. Cũng có thể viết theo cột dọc trong bài sau. ",
+    "generated_lecture": "Các con nhìn nhé: Mình có 3 viên kẹo, tớ cho thêm 2 viên nữa. Tổng cộng là 5 viên kẹo đúng không? Để viết phép cộng này thật gọn gàng, mình sẽ viết **3 + 2 = 5** theo một hàng ngang đó! Số đầu tiên cộng số thứ hai sẽ ra kết quả cuối cùng, mình gọi là 'tổng' đấy! Con có nhận ra điều gì đặc biệt ở cách viết này không?",
+    "audio_path": "audios\\slide_10.mp3",
+    "duration": 19.28
+  },
+  {
+    "slide_number": 11,
+    "title": "Slide 11: Phép cộng trong thực tế",
+    "original_text": "Ví dụ: Có 2 bút trong hộp, thêm 1 bút nữa là 3 bút. Học sinh cần liên hệ với thực tế để hiểu sâu hơn. ",
+    "generated_lecture": "Mình cùng xem nha! Cô có 2 cây bút chì màu này. Thêm 1 cây bút nữa. Các con cùng đếm xem mình có tất cả mấy cây bút nào? Một, hai, ba! À, đúng rồi! Vậy là 2 cây bút thêm 1 cây bút là 3 cây bút đấy! Có bạn nào có ví dụ khác không nhỉ?",
+    "audio_path": "audios\\slide_11.mp3",
+    "duration": 15.14
+  },
+  {
+    "slide_number": 12,
+    "title": "Slide 12: Phép cộng trong trò chơi",
+    "original_text": "Sử dụng trò chơi đếm điểm hoặc gom nhóm để luyện tập cộng các số nhỏ. ",
+    "generated_lecture": "Để cộng các số nhỏ thật giỏi, mình thử chơi trò chơi đếm hoặc gom nhóm nhé!\n\nVí dụ, con có 3 chiếc kẹo, cô cho thêm 2 chiếc nữa. Mình cùng gom lại xem có bao nhiêu chiếc kẹo tất cả? Hay khi chơi trò được điểm, bạn được 4 điểm, mình được 1 điểm. Mình dùng ngón tay đếm xem tổng cộng mình có bao nhiêu điểm nào?\n\nCứ thế, mình sẽ cộng số nhỏ cực giỏi luôn! Các con thử làm xem nào?",
+    "audio_path": "audios\\slide_12.mp3",
+    "duration": 23.86
+  },
+  {
+    "slide_number": 13,
+    "title": "Slide 13: Bài tập thực hành 1",
+    "original_text": "Tính: 1 + 2; 3 + 4; 5 + 0. Khuyến khích học sinh sử dụng hình vẽ hoặc đếm tay. ",
+    "generated_lecture": "Mình cùng thử đếm xem 1 ngón tay thêm 2 ngón tay nữa là mấy ngón tất cả? Các con cùng giơ tay đếm nhé!\n\nTiếp theo, nếu có 3 viên kẹo, thêm 4 viên nữa thì được bao nhiêu viên? Con có thể vẽ hình tròn ra nháp xem sao!\n\nCòn 5 cái bánh ngon ơi là ngon, nhưng không thêm cái nào cả (tức là cộng 0 đó!). Vậy mình vẫn có bao nhiêu cái bánh nhỉ?\n\nBạn nào tìm được cả 3 câu trả lời nhanh và đúng nhất nào?",
+    "audio_path": "audios\\slide_13.mp3",
+    "duration": 25.98
+  },
+  {
+    "slide_number": 14,
+    "title": "Slide 14: Giải thích bằng tranh",
+    "original_text": "Dùng tranh ảnh như 3 con cá + 2 con cá để giúp học sinh dễ hình dung phép cộng. ",
+    "generated_lecture": "Nhìn bức tranh này nè! Có 3 bạn cá vàng đang bơi lội vui vẻ. Rồi, có thêm 2 bạn cá nữa bơi tới chơi cùng. Vậy tổng cộng, mình có bao nhiêu bạn cá rồi nhỉ? Đếm thử xem nào!",
+    "audio_path": "audios\\slide_14.mp3",
+    "duration": 9.17
+  },
+  {
+    "slide_number": 15,
+    "title": "Slide 15: Số tròn chục và cộng",
+    "original_text": "Học sinh làm quen với số tròn chục như 10, rồi cộng thêm số nhỏ: 10 + 1 = 11. ",
+    "generated_lecture": "Mình có 10 viên kẹo dẻo thật ngon! 10 viên kẹo là một chục viên đấy các con. Bây giờ cô cho thêm 1 viên kẹo nữa. Vậy 10 viên kẹo ban đầu, thêm 1 viên kẹo mới là bao nhiêu viên nhỉ? Đúng rồi, là 11 viên kẹo đó! Vậy là 10 thêm 1 bằng 11. Các con đã nhớ chưa nào?",
+    "audio_path": "audios\\slide_15.mp3",
+    "duration": 16.14
+  },
+  {
+    "slide_number": 16,
+    "title": "Slide 16: Cộng trong phạm vi 5",
+    "original_text": "Làm bài tập cộng các số từ 0 đến 5. Ví dụ: 2 + 2, 4 + 0. ",
+    "generated_lecture": "Có 2 quả táo, mẹ cho thêm 2 quả nữa. Vậy là mình có tất cả mấy quả táo nhỉ? Hay nếu con có 4 chiếc bút, không thêm chiếc nào. Vẫn là mấy chiếc bút? Con hãy dùng ngón tay để đếm và tìm ra câu trả lời nhé! Đừng quên đếm thật cẩn thận!",
+    "audio_path": "audios\\slide_16.mp3",
+    "duration": 16.88
+  },
+  {
+    "slide_number": 17,
+    "title": "Slide 17: Cộng trong phạm vi 10",
+    "original_text": "Tăng dần độ khó: 6 + 2, 3 + 5. Học sinh cần nhớ bảng cộng nhỏ. ",
+    "generated_lecture": "Mình cùng tính 6 cộng 2 nhé. Các con xòe 6 ngón tay ra, rồi giơ thêm 2 ngón nữa. Đếm xem có bao nhiêu ngón? Đúng rồi, là 8 ngón! Tương tự, nếu có 3 chiếc kẹo, cô cho thêm 5 chiếc nữa thì mình có tổng cộng mấy chiếc kẹo nhỉ? Cùng đếm nào... Ồ, cũng là 8 chiếc kẹo đó! Các con thấy những phép cộng này có dễ không?",
+    "audio_path": "audios\\slide_17.mp3",
+    "duration": 25.34
+  },
+  {
+    "slide_number": 18,
+    "title": "Slide 18: Cộng có nhớ (giới thiệu)",
+    "original_text": "Giới thiệu khái niệm cộng có nhớ bằng ví dụ: 7 + 5. Để dành giải thích sâu hơn sau. ",
+    "generated_lecture": "Mình có 7 quả táo, cô cho thêm 5 quả nữa. Cùng đếm nào: 7 rồi đến 8, 9, 10, 11, 12! Vậy là 7 cộng 5 bằng 12. Số 12 này đặc biệt lắm, nó có một chục và hai đơn vị đó. Các con thử nói cho cô biết số nào có một chục và mấy đơn vị nữa không?",
+    "audio_path": "audios\\slide_18.mp3",
+    "duration": 17.64
+  },
+  {
+    "slide_number": 19,
+    "title": "Slide 19: Bảng cộng cơ bản",
+    "original_text": "Học sinh luyện tập bảng cộng từ 1 + 1 đến 5 + 5 để ghi nhớ nhanh. ",
+    "generated_lecture": "Có bạn nào thích đếm ngón tay không nhỉ? Hôm nay, mình cùng tập cộng các số bé xíu này nha. Ví dụ, 1 ngón tay cộng thêm 1 ngón tay là mấy ngón? Đúng rồi, là 2! Mình sẽ tập thật nhiều các phép cộng từ 1 cộng 1 đến 5 cộng 5 để các con nhớ thật nhanh trong đầu, không cần đếm nữa. Vậy, mình cùng khám phá xem 3 cộng 3 bằng mấy nào?",
+    "audio_path": "audios\\slide_19.mp3",
+    "duration": 23.13
+  },
+  {
+    "slide_number": 20,
+    "title": "Slide 20: Trò chơi ghép phép cộng",
+    "original_text": "Dùng thẻ số để học sinh ghép đúng phép cộng với kết quả tương ứng. ",
+    "generated_lecture": "Các con nhìn xem, trên bàn mình có những thẻ ghi phép cộng như '1 + 1' hay '2 + 3'. Nhiệm vụ của chúng mình là tìm đúng 'ngôi nhà' cho mỗi phép tính nhé! Ví dụ, 1 viên kẹo thêm 1 viên kẹo là mấy viên? Là 2 viên đúng không? Vậy mình sẽ tìm thẻ số '2' để ghép với thẻ '1 + 1' nè. Hoặc 2 ngón tay thêm 3 ngón tay là mấy ngón? Là 5! Mình tìm thẻ số '5' rồi ghép đúng vào. Ai giỏi ghép đúng hết nào?",
+    "audio_path": "audios\\slide_20.mp3",
+    "duration": 28.14
+  },
+  {
+    "slide_number": 21,
+    "title": "Slide 21: Thực hành nhóm",
+    "original_text": "Cho học sinh làm việc nhóm để thực hiện các bài tập cộng với đồ vật thật. ",
+    "generated_lecture": "Mỗi nhóm mình sẽ có một rổ đồ chơi, ví dụ như những viên bi hoặc que tính nhiều màu nè! Các con hãy cùng bạn dùng chúng để làm phép cộng. Ví dụ, 3 viên bi cộng thêm 2 viên bi nữa là mấy viên tất cả nhỉ? Cùng nhau đếm thật to và tìm đáp án nha! Xem nhóm nào cộng đúng và nhanh nhất nào!",
+    "audio_path": "audios\\slide_21.mp3",
+    "duration": 17.4
+  },
+  {
+    "slide_number": 22,
+    "title": "Slide 22: Phép cộng và câu chuyện",
+    "original_text": "Lồng ghép phép cộng vào truyện kể: 'Lan có 3 quả cam, mẹ cho thêm 2 quả…' ",
+    "generated_lecture": "Bạn Lan có 3 quả cam tròn xoe này. Mình cùng tưởng tượng 3 quả cam nhé! Rồi mẹ lại cho Lan thêm 2 quả nữa. Bây giờ, mình cùng đếm xem Lan có tất cả bao nhiêu quả cam nhé! 1, 2, 3... thêm 4, 5! Đúng rồi, 5 quả cam! Phép cộng là khi mình gộp các bạn lại với nhau để biết có tất cả bao nhiêu đó. Thế nếu cô có 4 cái bút chì, bạn tặng thêm 1 cái nữa, cô có mấy cái bút tất cả?",
+    "audio_path": "audios\\slide_22.mp3",
+    "duration": 27.53
+  },
+  {
+    "slide_number": 23,
+    "title": "Slide 23: Câu hỏi đố vui",
+    "original_text": "Đặt câu hỏi như: 'Tớ có 4 viên bi, bạn cho tớ 3 viên, tớ có bao nhiêu viên bi?' ",
+    "generated_lecture": "Cô có 4 quả táo đỏ. Bạn Bi cho cô thêm 3 quả táo nữa. Thế bây giờ, đố các con biết cô có tất cả bao nhiêu quả táo nhỉ? Chúng mình cùng nghĩ xem nhé!",
+    "audio_path": "audios\\slide_23.mp3",
+    "duration": 8.88
+  },
+  {
+    "slide_number": 24,
+    "title": "Slide 24: Kiểm tra nhanh",
+    "original_text": "Giơ tay trả lời nhanh các phép cộng đơn giản. Ví dụ: '2 + 2 là mấy?' ",
+    "generated_lecture": "Khi cô hỏi \"2 quả táo thêm 2 quả táo là mấy?\", hay \"3 cái kẹo với 1 cái kẹo là bao nhiêu?\", các con hãy giơ tay thật nhanh lên để cô gọi nhé! Chúng mình cùng thi xem ai trả lời đúng và nhanh nhất nào!",
+    "audio_path": "audios\\slide_24.mp3",
+    "duration": 11.03
+  },
+  {
+    "slide_number": 25,
+    "title": "Slide 25: Phép cộng theo dòng thời gian",
+    "original_text": "Sắp xếp phép cộng theo trình tự: ban đầu có 1, thêm 2, rồi thêm 3... ",
+    "generated_lecture": "Có 1 ngón tay này. Thêm 2 ngón tay nữa. Rồi lại thêm 3 ngón tay nữa nhé! Mình cứ cộng lần lượt như thế, theo thứ tự từ bé đến lớn. Đó là cách mình sắp xếp các số để cộng cho dễ đó con! Đếm xem mình có bao nhiêu ngón tay tất cả nào?",
+    "audio_path": "audios\\slide_25.mp3",
+    "duration": 14.4
+  },
+  {
+    "slide_number": 26,
+    "title": "Slide 26: Luyện tập với tranh",
+    "original_text": "Cho học sinh nhìn tranh rồi viết phép cộng tương ứng. Ví dụ: 2 cái bánh + 1 cái bánh... ",
+    "generated_lecture": "Nhìn vào tranh xem có gì nhé! Có 2 quả táo này, rồi lại có thêm 1 quả táo nữa. Vậy mình sẽ viết phép cộng thế nào nhỉ? Đúng rồi, mình viết số quả táo đầu tiên, sau đó thêm dấu cộng, rồi viết số quả táo thêm vào. Giống như 2 quả táo cộng 1 quả táo đó! Bây giờ, thử viết phép cộng cho hình tiếp theo xem con nào giỏi nhất nào!",
+    "audio_path": "audios\\slide_26.mp3",
+    "duration": 19.51
+  },
+  {
+    "slide_number": 27,
+    "title": "Slide 27: Thực hành viết phép cộng",
+    "original_text": "Học sinh tự viết phép cộng tương ứng với các tình huống trong lớp học. ",
+    "generated_lecture": "Mình cùng nhìn những chuyện đang diễn ra trong lớp mình nhé! Ví dụ, có 3 bạn đang đọc sách, lát sau thêm 2 bạn nữa đến cùng đọc. Vậy có tất cả bao nhiêu bạn? Các con hãy viết phép cộng cho tình huống này nhé: 3 + 2 = ? Còn chuyện gì nữa nhỉ?",
+    "audio_path": "audios\\slide_27.mp3",
+    "duration": 14.52
+  },
+  {
+    "slide_number": 28,
+    "title": "Slide 28: Củng cố kiến thức",
+    "original_text": "Tóm lại các khái niệm: số hạng, tổng, dấu cộng, cách đếm và kết quả. ",
+    "generated_lecture": "Con có 2 quả táo ngon lành, mẹ cho con thêm 1 quả nữa. Vậy là mình có số 2 và số 1, hai số này gọi là **số hạng** đó. Dấu '+' là dấu 'gộp lại', 'cho thêm'. Mình đếm xem tất cả được bao nhiêu nào: 1, 2, 3! Số 3 này chính là **tổng** hay **kết quả** cuối cùng khi mình gộp lại. Con đã hiểu bạn số hạng, dấu cộng và tổng chưa?",
+    "audio_path": "audios\\slide_28.mp3",
+    "duration": 23.97
+  },
+  {
+    "slide_number": 29,
+    "title": "Slide 29: Bài kiểm tra nhỏ",
+    "original_text": "Thực hiện 5 bài tập cộng đơn giản để đánh giá mức độ hiểu bài. ",
+    "generated_lecture": "Giờ mình cùng nhau làm 5 bài tập cộng siêu dễ nhé! Giống như mình có 2 viên kẹo, cho thêm 3 viên kẹo nữa là mấy viên tất cả vậy đó. Các con làm xong, cô sẽ biết ai đã nhớ bài thật giỏi rồi. Sẵn sàng chưa nào?",
+    "audio_path": "audios\\slide_29.mp3",
+    "duration": 11.71
+  },
+  {
+    "slide_number": 30,
+    "title": "Slide 30: Lời dặn dò",
+    "original_text": "Học sinh luyện tập bảng cộng ở nhà, chuẩn bị cho bài học tiếp theo là phép trừ. ",
+    "generated_lecture": "Để mai mình học trừ siêu dễ, hôm nay các con nhớ ôn lại bảng cộng nhé! Ví dụ, mình có 3 cái kẹo, mẹ cho thêm 2 cái nữa là mấy cái kẹo nhỉ? Nếu mình biết 3 cộng 2 bằng 5, thì mai cô đố 5 cái kẹo bớt 2 cái còn mấy, các con sẽ trả lời được ngay! Các con nhớ ôn thật kỹ nha?",
+    "audio_path": "audios\\slide_30.mp3",
+    "duration": 19.16
+  }
+]

@@ -1,0 +1,150 @@
+[Wed Jul  9 16:03:56 2025] Lỗi kết nối: HTTPSConnectionPool(host='api.ausynclab.org', port=443): Read timed out. (read timeout=30)
+[Wed Jul  9 16:04:52 2025] Lỗi kết nối: HTTPSConnectionPool(host='api.ausynclab.org', port=443): Read timed out. (read timeout=30)
+[Wed Jul  9 16:05:27 2025] Lỗi kết nối: HTTPSConnectionPool(host='api.ausynclab.org', port=443): Read timed out. (read timeout=30)
+[Wed Jul  9 16:05:40 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:13:57 2025] Lỗi kết nối: HTTPSConnectionPool(host='api.ausynclab.org', port=443): Read timed out. (read timeout=30)
+[Wed Jul  9 16:14:20 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:21 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:21 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:21 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:21 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:21 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:21 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:21 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:22 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:22 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:22 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:22 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:22 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:22 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:22 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:22 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:23 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:23 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:23 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:23 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:23 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:23 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:23 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:23 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:23 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:24 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:24 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:24 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:24 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:24 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:24 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:24 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:24 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:25 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:25 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:25 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:25 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:25 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:25 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:25 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:25 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:26 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:26 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:26 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:26 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:26 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:26 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:27 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:28 2025] Không tìm thấy audio_id: {
+  "status": 403,
+  "result": {
+    "detail": {
+      "valid_usage": false,
+      "error_code": "parallel_process_limit",
+      "service_type": "text_to_speech",
+      "processing_operations_count": 1
+    }
+  }
+}
+[Wed Jul  9 16:14:28 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:28 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:28 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:28 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:28 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
+[Wed Jul  9 16:14:28 2025] Lỗi API 429: {"error":"Rate limit exceeded: 1 per 1 second"}
